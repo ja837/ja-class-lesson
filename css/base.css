@@ -21,14 +21,14 @@ h1 {
 	font-family: 'Roboto Slab', serif;
 	font-weight:500; 
 	font-size: 3.250em; 
-	line-heigt: 1.1;
+	line-height: 1.1;
 }
 
 h2 { 
 	font-family: 'Roboto Slab', serif;
 	font-weight:500; 
 	font-size: 2.500em; 
-	line-heigt: 1.1;
+	line-height: 1.1;
 }
 
 h3 { 
@@ -42,21 +42,22 @@ h4 {
 	font-family: 'Roboto Slab', serif;
 	font-weight:900; 
 	font-size: 1em; 
-	line-heigt: 1.1;
+	line-height: 1.1;
 }
 
 h5  { 
 	font-family: 'Roboto Slab', serif;
 	font-weight:900; 
 	font-size: 1em; 
-	line-heigt: 1.1;
+	line-height: 1.1;
+	margin-bottom: 10px;
 }
 
 h6 { 
 	font-family: 'Roboto Slab', serif;
 	font-weight:500; 
 	font-size: 1em; 
-	line-heigt: 1.1;
+	line-height: 1.1;
 }
 
 .large-text { 
